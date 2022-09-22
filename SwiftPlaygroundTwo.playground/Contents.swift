@@ -10,3 +10,12 @@ else
 {
     print("I need to work harder in this class")
 }
+var gradeA = true
+if gradeA == true
+{
+    print("I really like this class")
+}
+else
+{
+        print("I'm not so sure about coding in Swift")
+    }
