@@ -19,3 +19,21 @@ else
 {
         print("I'm not so sure about coding in Swift")
     }
+//on my own
+
+var studyHard = 10
+var barelyStudy = 0
+if var studyHard > var barelystudy
+{
+    print("You're brilliant!")
+}
+else
+{
+    print("Try again!")
+}
+var smartiePants = false
+if smartiePants == false
+{
+    print("Keep trying :)")
+}
+
